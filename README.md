@@ -1,1 +1,1 @@
-# Grid-in-css
+# Grid-in-css(responsive)
